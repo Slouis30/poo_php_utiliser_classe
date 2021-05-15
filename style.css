@@ -1,0 +1,16 @@
+body{
+    font-size: 16px;
+}
+.ctn_impair{
+    background-color: bisque;
+}
+.ctn_pair{
+    background-color: grey;
+}
+#HeroManagerAddSuccess{
+    display: none;
+}
+#HeroManagerAddSuccess:target{
+    display: flex;
+    color: green;
+}
